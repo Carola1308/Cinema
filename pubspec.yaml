@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_upgrade: ^0.0.3
   go_router: ^7.0.1
 
 dev_dependencies:
